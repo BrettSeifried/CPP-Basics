@@ -7,7 +7,8 @@
   <Project Name="Variables" Path="Variables/Variables.project" Active="No"/>
   <Project Name="PrimitiveTypes" Path="PrimitiveTypes/PrimitiveTypes.project" Active="No"/>
   <Project Name="constants" Path="constants/constants.project" Active="No"/>
-  <Project Name="CarpetCleaningChallenge" Path="CarpetCleaningChallenge/CarpetCleaningChallenge.project" Active="Yes"/>
+  <Project Name="CarpetCleaningChallenge" Path="CarpetCleaningChallenge/CarpetCleaningChallenge.project" Active="No"/>
+  <Project Name="Arrays" Path="Arrays/Arrays.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -19,6 +20,7 @@
       <Project Name="PrimitiveTypes" ConfigName="Debug"/>
       <Project Name="constants" ConfigName="Debug"/>
       <Project Name="CarpetCleaningChallenge" ConfigName="Debug"/>
+      <Project Name="Arrays" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -30,6 +32,7 @@
       <Project Name="PrimitiveTypes" ConfigName="Release"/>
       <Project Name="constants" ConfigName="Release"/>
       <Project Name="CarpetCleaningChallenge" ConfigName="Release"/>
+      <Project Name="Arrays" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

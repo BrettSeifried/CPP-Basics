@@ -50,14 +50,14 @@ int main( ){
 	cout << "Price per large room: $" << large_room_cost << endl; //price per large
 	
 	cout << "Cost: $" 
-	<< (small_rooms * small_room_cost) + (large_rooms * large_room_cost) << endl; // cost
+		 << (small_rooms * small_room_cost) + (large_rooms * large_room_cost) << endl; // cost
 	cout << "Tax: $" 
-	<< (((small_rooms * small_room_cost) + (large_rooms * large_room_cost))  * tax_rate ) << endl; // tax 
+		 << (((small_rooms * small_room_cost) + (large_rooms * large_room_cost))  * tax_rate ) << endl; // tax 
 	
 	cout << "==================================\n";
 	
 	cout << "Total estimate: $" 
-	<< (small_rooms * small_room_cost) + (large_rooms * large_room_cost) + (((small_rooms * small_room_cost) + (large_rooms * large_room_cost))  * tax_rate ) << endl;	// total estimae
+		 << (small_rooms * small_room_cost) + (large_rooms * large_room_cost) + (((small_rooms * small_room_cost) + (large_rooms * large_room_cost))  * tax_rate ) << endl;	// total estimae
 	cout << "Estiame valid for " << days_valid << " days\n";	//valid for days
 	
 	return 0;
