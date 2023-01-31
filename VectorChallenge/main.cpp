@@ -27,9 +27,14 @@ int main( ){
 	vector_2d.push_back(vector2);
 	
 	cout << "\nVector_2d's row 1, col 1: " << vector_2d.at(0).at(0) << endl;
-	cout << "\nVector_2d's row 1, col 2: " << vector_2d.at(0).at(1) << endl;
+	cout << "Vector_2d's row 1, col 2: " << vector_2d.at(0).at(1) << endl;
 	cout << "Vector_2d's row 2, col 1: " << vector_2d.at(1).at(0) << endl;
 	cout << "Vector_2d's row 2, col 2: " << vector_2d.at(1).at(1) << endl;
+	
+	vector1.at(0) = {1000};
+	
+	cout << "\nVector_2d row 1, col 1 is now: " << vector_2d.at(0).at(0) << endl;
+	cout << "Vector1's first item is now :" << vector1.at(0) << endl;
 	
 	return 0;
 }
