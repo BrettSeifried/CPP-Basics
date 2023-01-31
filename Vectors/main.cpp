@@ -75,5 +75,7 @@ int main( ){
 	cout << movie_ratings.at(0).at(2) << endl;
 	cout << movie_ratings.at(0).at(3) << endl;
 	
+	cout << endl;
+	
 	return 0;
 }
