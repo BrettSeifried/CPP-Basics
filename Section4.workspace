@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Section4" Database="" Version="10000">
-  <Project Name="Project1" Path="Section4/Section4.project" Active="Yes"/>
+  <Project Name="Project1" Path="Section4/Section4.project" Active="No"/>
   <Project Name="Project2" Path="Project2/Project2.project" Active="No"/>
   <Project Name="FirstProgram" Path="FirstProgram/FirstProgram.project" Active="No"/>
   <Project Name="BasicIO" Path="BasicIO/BasicIO.project" Active="No"/>
   <Project Name="Variables" Path="Variables/Variables.project" Active="No"/>
   <Project Name="PrimitiveTypes" Path="PrimitiveTypes/PrimitiveTypes.project" Active="No"/>
+  <Project Name="constants" Path="constants/constants.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -15,6 +16,7 @@
       <Project Name="BasicIO" ConfigName="Debug"/>
       <Project Name="Variables" ConfigName="Debug"/>
       <Project Name="PrimitiveTypes" ConfigName="Debug"/>
+      <Project Name="constants" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -24,6 +26,7 @@
       <Project Name="BasicIO" ConfigName="Release"/>
       <Project Name="Variables" ConfigName="Release"/>
       <Project Name="PrimitiveTypes" ConfigName="Release"/>
+      <Project Name="constants" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

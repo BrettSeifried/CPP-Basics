@@ -4,9 +4,9 @@
   <wxString Value="/Users/brettford/Desktop/Cplusplus/Section4/Section4.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
-      <wxString Value="/Users/brettford/Desktop/Cplusplus/Section4/Project2/main.cpp" Name="FileName"/>
+      <wxString Value="/Users/brettford/Desktop/Cplusplus/Section4/Section4/main.cpp" Name="FileName"/>
       <int Value="0" Name="FirstVisibleLine"/>
-      <int Value="0" Name="CurrentLine"/>
+      <int Value="26" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
