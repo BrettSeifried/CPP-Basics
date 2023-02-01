@@ -12,7 +12,8 @@
   <Project Name="Vectors" Path="Vectors/Vectors.project" Active="No"/>
   <Project Name="VectorChallenge" Path="VectorChallenge/VectorChallenge.project" Active="No"/>
   <Project Name="operators" Path="operators/operators.project" Active="No"/>
-  <Project Name="OperatorChallenge" Path="OperatorChallenge/OperatorChallenge.project" Active="Yes"/>
+  <Project Name="OperatorChallenge" Path="OperatorChallenge/OperatorChallenge.project" Active="No"/>
+  <Project Name="IncrementDecrement" Path="IncrementDecrement/IncrementDecrement.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -29,6 +30,7 @@
       <Project Name="VectorChallenge" ConfigName="Debug"/>
       <Project Name="operators" ConfigName="Debug"/>
       <Project Name="OperatorChallenge" ConfigName="Debug"/>
+      <Project Name="IncrementDecrement" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -45,6 +47,7 @@
       <Project Name="VectorChallenge" ConfigName="Release"/>
       <Project Name="operators" ConfigName="Release"/>
       <Project Name="OperatorChallenge" ConfigName="Release"/>
+      <Project Name="IncrementDecrement" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
