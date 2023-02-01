@@ -50,8 +50,7 @@ int main( ){
 	
 	cout << "\nIn line math" << endl;
 	cout << 5/10 << endl;
-	
 	cout << 5.0/10.0 << endl;
 	
 	return 0;
-}
+} 
