@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ IncrementDecrement - Debug ]----------"
-	@cd "IncrementDecrement" && "$(MAKE)" -f  "IncrementDecrement.mk"
+	@echo "----------Building project:[ MixedExpressions - Debug ]----------"
+	@cd "MixedExpressions" && "$(MAKE)" -f  "MixedExpressions.mk"
 clean:
-	@echo "----------Cleaning project:[ IncrementDecrement - Debug ]----------"
-	@cd "IncrementDecrement" && "$(MAKE)" -f  "IncrementDecrement.mk" clean
+	@echo "----------Cleaning project:[ MixedExpressions - Debug ]----------"
+	@cd "MixedExpressions" && "$(MAKE)" -f  "MixedExpressions.mk" clean
