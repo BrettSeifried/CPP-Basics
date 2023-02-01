@@ -1,4 +1,12 @@
 [{
+  "file": "/Users/brettford/Desktop/Cplusplus/Section4/operators/main.cpp",
+  "directory": "/Users/brettford/Desktop/Cplusplus/Section4/operators",
+  "command": "/usr/bin/g++ -c /Users/brettford/Desktop/Cplusplus/Section4/operators/main.cpp -o /Users/brettford/Desktop/Cplusplus/Section4/operators/main.cpp.o -target arm64-apple-darwin22.3.0 -I/usr/local/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -gdwarf-2  -std=c++20  -std=c++17  -Wall"
+ }, {
+  "file": "/Users/brettford/Desktop/Cplusplus/Section4/FirstProgram/main.cpp",
+  "directory": "/Users/brettford/Desktop/Cplusplus/Section4/FirstProgram",
+  "command": "/usr/bin/g++ -c /Users/brettford/Desktop/Cplusplus/Section4/FirstProgram/main.cpp -o /Users/brettford/Desktop/Cplusplus/Section4/FirstProgram/main.cpp.o -target arm64-apple-darwin22.3.0 -I/usr/local/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -gdwarf-2  -std=c++20  -std=c++17  -Wall"
+ }, {
   "file": "/Users/brettford/Desktop/Cplusplus/Section4/VectorChallenge/main.cpp",
   "directory": "/Users/brettford/Desktop/Cplusplus/Section4/VectorChallenge",
   "command": "/usr/bin/g++ -c /Users/brettford/Desktop/Cplusplus/Section4/VectorChallenge/main.cpp -o /Users/brettford/Desktop/Cplusplus/Section4/VectorChallenge/main.cpp.o -target arm64-apple-darwin22.3.0 -I/usr/local/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -gdwarf-2  -std=c++20  -std=c++17  -Wall"
@@ -26,10 +34,6 @@
   "file": "/Users/brettford/Desktop/Cplusplus/Section4/Variables/main.cpp",
   "directory": "/Users/brettford/Desktop/Cplusplus/Section4/Variables",
   "command": "/usr/bin/g++ -c /Users/brettford/Desktop/Cplusplus/Section4/Variables/main.cpp -o /Users/brettford/Desktop/Cplusplus/Section4/Variables/main.cpp.o -target arm64-apple-darwin22.3.0 -I/usr/local/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -gdwarf-2  -std=c++20  -std=c++17  -Wall"
- }, {
-  "file": "/Users/brettford/Desktop/Cplusplus/Section4/FirstProgram/main.cpp",
-  "directory": "/Users/brettford/Desktop/Cplusplus/Section4/FirstProgram",
-  "command": "/usr/bin/g++ -c /Users/brettford/Desktop/Cplusplus/Section4/FirstProgram/main.cpp -o /Users/brettford/Desktop/Cplusplus/Section4/FirstProgram/main.cpp.o -target arm64-apple-darwin22.3.0 -I/usr/local/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -gdwarf-2  -std=c++20  -std=c++17  -Wall"
  }, {
   "file": "/Users/brettford/Desktop/Cplusplus/Section4/BasicIO/main.cpp",
   "directory": "/Users/brettford/Desktop/Cplusplus/Section4/BasicIO",

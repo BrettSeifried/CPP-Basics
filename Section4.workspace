@@ -10,7 +10,8 @@
   <Project Name="CarpetCleaningChallenge" Path="CarpetCleaningChallenge/CarpetCleaningChallenge.project" Active="No"/>
   <Project Name="Arrays" Path="Arrays/Arrays.project" Active="No"/>
   <Project Name="Vectors" Path="Vectors/Vectors.project" Active="No"/>
-  <Project Name="VectorChallenge" Path="VectorChallenge/VectorChallenge.project" Active="Yes"/>
+  <Project Name="VectorChallenge" Path="VectorChallenge/VectorChallenge.project" Active="No"/>
+  <Project Name="operators" Path="operators/operators.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -25,6 +26,7 @@
       <Project Name="Arrays" ConfigName="Debug"/>
       <Project Name="Vectors" ConfigName="Debug"/>
       <Project Name="VectorChallenge" ConfigName="Debug"/>
+      <Project Name="operators" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -39,6 +41,7 @@
       <Project Name="Arrays" ConfigName="Release"/>
       <Project Name="Vectors" ConfigName="Release"/>
       <Project Name="VectorChallenge" ConfigName="Release"/>
+      <Project Name="operators" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
