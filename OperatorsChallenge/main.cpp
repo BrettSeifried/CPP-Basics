@@ -13,7 +13,6 @@ int main( ){
 	const int quater_value {25};
 	const int dime_value {10};
 	const int nickle_value {5};
-	const int penny_value {1};
 	
 	
 	cout << "Enter an amount in cents: ";
@@ -42,5 +41,6 @@ int main( ){
 	cout << "Nickles: " << nickles << endl;
 	cout << "Pennies: " << pennies << endl;
 	
+	cout << endl;
 	return 0;
 }
