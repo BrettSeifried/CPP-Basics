@@ -30,5 +30,8 @@ int main( ){
 	cout << "Comparision result (equals): " << num_equal_result << endl;
 	cout << "Comparision result (not equals): " << num_not_equal_result << endl;
 	
+	// If using doubles. 12.0 & 11.999999999 will output as true for equals.
+	// computer approximates the numbers
+	
 	return 0;
 }
