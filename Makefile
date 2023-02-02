@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ RealationalOperators - Debug ]----------"
-	@cd "RealationalOperators" && "$(MAKE)" -f  "RealationalOperators.mk"
+	@echo "----------Building project:[ LogicalOperators - Debug ]----------"
+	@cd "LogicalOperators" && "$(MAKE)" -f  "LogicalOperators.mk"
 clean:
-	@echo "----------Cleaning project:[ RealationalOperators - Debug ]----------"
-	@cd "RealationalOperators" && "$(MAKE)" -f  "RealationalOperators.mk" clean
+	@echo "----------Cleaning project:[ LogicalOperators - Debug ]----------"
+	@cd "LogicalOperators" && "$(MAKE)" -f  "LogicalOperators.mk" clean
