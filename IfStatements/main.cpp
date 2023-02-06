@@ -39,6 +39,19 @@ int main( ){
 		cout << "This means all 4 if statements display" << endl;
 	}
 	
+	int target {50};
+	if (num >= target) {
+		cout << "\n ========== If Else true =========" << endl;
+		cout << num << " is greater than or equal to " << target << endl;
+		int diff {num - target};
+		cout << num << " is " << diff << " greater than " << target << endl;
+	} else {
+		cout << "\n ========== If Else false =========" << endl;
+		cout << num << " is less than " << target << endl;
+		int diff {target - num};
+		cout << num << " is " << diff << " less than " << target << endl;
+	}
+	
 	cout << endl;
 	return 0;
 }
