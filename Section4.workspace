@@ -20,7 +20,8 @@
   <Project Name="LogicalOperators" Path="LogicalOperators/LogicalOperators.project" Active="No"/>
   <Project Name="OperatorsChallenge" Path="OperatorsChallenge/OperatorsChallenge.project" Active="No"/>
   <Project Name="IfStatements" Path="IfStatements/IfStatements.project" Active="No"/>
-  <Project Name="Grades" Path="Grades/Grades.project" Active="Yes"/>
+  <Project Name="Grades" Path="Grades/Grades.project" Active="No"/>
+  <Project Name="Shipping" Path="Shipping/Shipping.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -45,6 +46,7 @@
       <Project Name="OperatorsChallenge" ConfigName="Debug"/>
       <Project Name="IfStatements" ConfigName="Debug"/>
       <Project Name="Grades" ConfigName="Debug"/>
+      <Project Name="Shipping" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -69,6 +71,7 @@
       <Project Name="OperatorsChallenge" ConfigName="Release"/>
       <Project Name="IfStatements" ConfigName="Release"/>
       <Project Name="Grades" ConfigName="Release"/>
+      <Project Name="Shipping" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
