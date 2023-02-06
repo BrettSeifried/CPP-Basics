@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ OperatorsChallenge - Debug ]----------"
-	@cd "OperatorsChallenge" && "$(MAKE)" -f  "OperatorsChallenge.mk"
+	@echo "----------Building project:[ IfStatements - Debug ]----------"
+	@cd "IfStatements" && "$(MAKE)" -f  "IfStatements.mk"
 clean:
-	@echo "----------Cleaning project:[ OperatorsChallenge - Debug ]----------"
-	@cd "OperatorsChallenge" && "$(MAKE)" -f  "OperatorsChallenge.mk" clean
+	@echo "----------Cleaning project:[ IfStatements - Debug ]----------"
+	@cd "IfStatements" && "$(MAKE)" -f  "IfStatements.mk" clean

@@ -18,7 +18,8 @@
   <Project Name="EqualityOperators" Path="EqualityOperators/EqualityOperators.project" Active="No"/>
   <Project Name="RealationalOperators" Path="RealationalOperators/RealationalOperators.project" Active="No"/>
   <Project Name="LogicalOperators" Path="LogicalOperators/LogicalOperators.project" Active="No"/>
-  <Project Name="OperatorsChallenge" Path="OperatorsChallenge/OperatorsChallenge.project" Active="Yes"/>
+  <Project Name="OperatorsChallenge" Path="OperatorsChallenge/OperatorsChallenge.project" Active="No"/>
+  <Project Name="IfStatements" Path="IfStatements/IfStatements.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -41,6 +42,7 @@
       <Project Name="RealationalOperators" ConfigName="Debug"/>
       <Project Name="LogicalOperators" ConfigName="Debug"/>
       <Project Name="OperatorsChallenge" ConfigName="Debug"/>
+      <Project Name="IfStatements" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -63,6 +65,7 @@
       <Project Name="RealationalOperators" ConfigName="Release"/>
       <Project Name="LogicalOperators" ConfigName="Release"/>
       <Project Name="OperatorsChallenge" ConfigName="Release"/>
+      <Project Name="IfStatements" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
