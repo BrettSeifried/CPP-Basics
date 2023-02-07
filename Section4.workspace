@@ -24,7 +24,8 @@
   <Project Name="Shipping" Path="Shipping/Shipping.project" Active="No"/>
   <Project Name="SwitchStatements" Path="SwitchStatements/SwitchStatements.project" Active="No"/>
   <Project Name="SwitchEnum" Path="SwitchEnum/SwitchEnum.project" Active="No"/>
-  <Project Name="ConditionalOp" Path="ConditionalOp/ConditionalOp.project" Active="Yes"/>
+  <Project Name="ConditionalOp" Path="ConditionalOp/ConditionalOp.project" Active="No"/>
+  <Project Name="Loops" Path="Loops/Loops.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -53,6 +54,7 @@
       <Project Name="SwitchStatements" ConfigName="Debug"/>
       <Project Name="SwitchEnum" ConfigName="Debug"/>
       <Project Name="ConditionalOp" ConfigName="Debug"/>
+      <Project Name="Loops" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -81,6 +83,7 @@
       <Project Name="SwitchStatements" ConfigName="Release"/>
       <Project Name="SwitchEnum" ConfigName="Release"/>
       <Project Name="ConditionalOp" ConfigName="Release"/>
+      <Project Name="Loops" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

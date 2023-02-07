@@ -8,6 +8,7 @@
 /Users/brettford/Desktop/Cplusplus/Section4/Vectors/main.cpp
 /Users/brettford/Desktop/Cplusplus/Section4/Shipping/main.cpp
 /Users/brettford/Desktop/Cplusplus/Section4/EqualityOperators/main.cpp
+/Users/brettford/Desktop/Cplusplus/Section4/Loops/main.cpp
 /Users/brettford/Desktop/Cplusplus/Section4/MixedExpressions/main.cpp
 /Users/brettford/Desktop/Cplusplus/Section4/OperatorChallenge/main.cpp
 /Users/brettford/Desktop/Cplusplus/Section4/operators/main.cpp
