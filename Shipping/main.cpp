@@ -51,7 +51,7 @@ int main( ){
 			cout << " adding tier 1 surcharge" << endl;
 		}
 		
-		cout << fixed << setprecision(2); // prints dollars properly.
+		cout << fixed << setprecision(2); // pritns out only to two decimals
 		
 		cout << "The volume of your package is " << package_volume << endl;
 		cout << "Total cost: $" << package_cost << " to ship" << endl;

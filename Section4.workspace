@@ -21,7 +21,10 @@
   <Project Name="OperatorsChallenge" Path="OperatorsChallenge/OperatorsChallenge.project" Active="No"/>
   <Project Name="IfStatements" Path="IfStatements/IfStatements.project" Active="No"/>
   <Project Name="Grades" Path="Grades/Grades.project" Active="No"/>
-  <Project Name="Shipping" Path="Shipping/Shipping.project" Active="Yes"/>
+  <Project Name="Shipping" Path="Shipping/Shipping.project" Active="No"/>
+  <Project Name="SwitchStatements" Path="SwitchStatements/SwitchStatements.project" Active="No"/>
+  <Project Name="SwitchEnum" Path="SwitchEnum/SwitchEnum.project" Active="No"/>
+  <Project Name="ConditionalOp" Path="ConditionalOp/ConditionalOp.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -47,6 +50,9 @@
       <Project Name="IfStatements" ConfigName="Debug"/>
       <Project Name="Grades" ConfigName="Debug"/>
       <Project Name="Shipping" ConfigName="Debug"/>
+      <Project Name="SwitchStatements" ConfigName="Debug"/>
+      <Project Name="SwitchEnum" ConfigName="Debug"/>
+      <Project Name="ConditionalOp" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -72,6 +78,9 @@
       <Project Name="IfStatements" ConfigName="Release"/>
       <Project Name="Grades" ConfigName="Release"/>
       <Project Name="Shipping" ConfigName="Release"/>
+      <Project Name="SwitchStatements" ConfigName="Release"/>
+      <Project Name="SwitchEnum" ConfigName="Release"/>
+      <Project Name="ConditionalOp" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
