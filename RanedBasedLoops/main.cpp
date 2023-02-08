@@ -19,7 +19,7 @@ int main( ){
 		total += temp;
 		
 	if (temperatures.size() != 0)
-		average_temp = total / temperatures.size();
+		average_temp = total / temperatures.size(); 
 	
 	cout << "Past temps : ";
 	for (auto current_temp : temperatures) 

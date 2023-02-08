@@ -26,7 +26,8 @@
   <Project Name="SwitchEnum" Path="SwitchEnum/SwitchEnum.project" Active="No"/>
   <Project Name="ConditionalOp" Path="ConditionalOp/ConditionalOp.project" Active="No"/>
   <Project Name="Loops" Path="Loops/Loops.project" Active="No"/>
-  <Project Name="RanedBasedLoops" Path="RanedBasedLoops/RanedBasedLoops.project" Active="Yes"/>
+  <Project Name="RanedBasedLoops" Path="RanedBasedLoops/RanedBasedLoops.project" Active="No"/>
+  <Project Name="Whileloop" Path="Whileloop/Whileloop.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -57,6 +58,7 @@
       <Project Name="ConditionalOp" ConfigName="Debug"/>
       <Project Name="Loops" ConfigName="Debug"/>
       <Project Name="RanedBasedLoops" ConfigName="Debug"/>
+      <Project Name="Whileloop" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -87,6 +89,7 @@
       <Project Name="ConditionalOp" ConfigName="Release"/>
       <Project Name="Loops" ConfigName="Release"/>
       <Project Name="RanedBasedLoops" ConfigName="Release"/>
+      <Project Name="Whileloop" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

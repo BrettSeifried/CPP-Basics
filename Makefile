@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ RanedBasedLoops - Debug ]----------"
-	@cd "RanedBasedLoops" && "$(MAKE)" -f  "RanedBasedLoops.mk"
+	@echo "----------Building project:[ Whileloop - Debug ]----------"
+	@cd "Whileloop" && "$(MAKE)" -f  "Whileloop.mk"
 clean:
-	@echo "----------Cleaning project:[ RanedBasedLoops - Debug ]----------"
-	@cd "RanedBasedLoops" && "$(MAKE)" -f  "RanedBasedLoops.mk" clean
+	@echo "----------Cleaning project:[ Whileloop - Debug ]----------"
+	@cd "Whileloop" && "$(MAKE)" -f  "Whileloop.mk" clean
