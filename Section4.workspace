@@ -29,7 +29,8 @@
   <Project Name="RanedBasedLoops" Path="RanedBasedLoops/RanedBasedLoops.project" Active="No"/>
   <Project Name="Whileloop" Path="Whileloop/Whileloop.project" Active="No"/>
   <Project Name="DoWhileLoop" Path="DoWhileLoop/DoWhileLoop.project" Active="No"/>
-  <Project Name="NestedLoops" Path="NestedLoops/NestedLoops.project" Active="Yes"/>
+  <Project Name="NestedLoops" Path="NestedLoops/NestedLoops.project" Active="No"/>
+  <Project Name="LoopChallenege" Path="LoopChallenege/LoopChallenege.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -63,6 +64,7 @@
       <Project Name="Whileloop" ConfigName="Debug"/>
       <Project Name="DoWhileLoop" ConfigName="Debug"/>
       <Project Name="NestedLoops" ConfigName="Debug"/>
+      <Project Name="LoopChallenege" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -96,6 +98,7 @@
       <Project Name="Whileloop" ConfigName="Release"/>
       <Project Name="DoWhileLoop" ConfigName="Release"/>
       <Project Name="NestedLoops" ConfigName="Release"/>
+      <Project Name="LoopChallenege" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

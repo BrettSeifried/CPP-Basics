@@ -6,6 +6,7 @@
 /Users/brettford/Desktop/Cplusplus/Section4/SwitchStatements/main.cpp
 /Users/brettford/Desktop/Cplusplus/Section4/IfStatements/main.cpp
 /Users/brettford/Desktop/Cplusplus/Section4/OperatorsChallenge/main.cpp
+/Users/brettford/Desktop/Cplusplus/Section4/LoopChallenege/main.cpp
 /Users/brettford/Desktop/Cplusplus/Section4/constants/main.cpp
 /Users/brettford/Desktop/Cplusplus/Section4/RealationalOperators/main.cpp
 /Users/brettford/Desktop/Cplusplus/Section4/Vectors/main.cpp

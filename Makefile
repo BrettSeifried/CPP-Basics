@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ NestedLoops - Debug ]----------"
-	@cd "NestedLoops" && "$(MAKE)" -f  "NestedLoops.mk"
+	@echo "----------Building project:[ LoopChallenege - Debug ]----------"
+	@cd "LoopChallenege" && "$(MAKE)" -f  "LoopChallenege.mk"
 clean:
-	@echo "----------Cleaning project:[ NestedLoops - Debug ]----------"
-	@cd "NestedLoops" && "$(MAKE)" -f  "NestedLoops.mk" clean
+	@echo "----------Cleaning project:[ LoopChallenege - Debug ]----------"
+	@cd "LoopChallenege" && "$(MAKE)" -f  "LoopChallenege.mk" clean
