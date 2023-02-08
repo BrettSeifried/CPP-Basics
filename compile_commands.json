@@ -1,4 +1,8 @@
 [{
+  "file": "/Users/brettford/Desktop/Cplusplus/Section4/NestedLoops/main.cpp",
+  "directory": "/Users/brettford/Desktop/Cplusplus/Section4/NestedLoops",
+  "command": "/usr/bin/g++ -c /Users/brettford/Desktop/Cplusplus/Section4/NestedLoops/main.cpp -o /Users/brettford/Desktop/Cplusplus/Section4/NestedLoops/main.cpp.o -target arm64-apple-darwin22.3.0 -I/usr/local/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -gdwarf-2  -std=c++20  -std=c++17  -Wall"
+ }, {
   "file": "/Users/brettford/Desktop/Cplusplus/Section4/Whileloop/main.cpp",
   "directory": "/Users/brettford/Desktop/Cplusplus/Section4/Whileloop",
   "command": "/usr/bin/g++ -c /Users/brettford/Desktop/Cplusplus/Section4/Whileloop/main.cpp -o /Users/brettford/Desktop/Cplusplus/Section4/Whileloop/main.cpp.o -target arm64-apple-darwin22.3.0 -I/usr/local/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -gdwarf-2  -std=c++20  -std=c++17  -Wall"
@@ -6,6 +10,10 @@
   "file": "/Users/brettford/Desktop/Cplusplus/Section4/ConditionalOp/main.cpp",
   "directory": "/Users/brettford/Desktop/Cplusplus/Section4/ConditionalOp",
   "command": "/usr/bin/g++ -c /Users/brettford/Desktop/Cplusplus/Section4/ConditionalOp/main.cpp -o /Users/brettford/Desktop/Cplusplus/Section4/ConditionalOp/main.cpp.o -target arm64-apple-darwin22.3.0 -I/usr/local/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -gdwarf-2  -std=c++20  -std=c++17  -Wall"
+ }, {
+  "file": "/Users/brettford/Desktop/Cplusplus/Section4/DoWhileLoop/main.cpp",
+  "directory": "/Users/brettford/Desktop/Cplusplus/Section4/DoWhileLoop",
+  "command": "/usr/bin/g++ -c /Users/brettford/Desktop/Cplusplus/Section4/DoWhileLoop/main.cpp -o /Users/brettford/Desktop/Cplusplus/Section4/DoWhileLoop/main.cpp.o -target arm64-apple-darwin22.3.0 -I/usr/local/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -g  -O0  -gdwarf-2  -std=c++20  -std=c++17  -Wall"
  }, {
   "file": "/Users/brettford/Desktop/Cplusplus/Section4/SwitchEnum/main.cpp",
   "directory": "/Users/brettford/Desktop/Cplusplus/Section4/SwitchEnum",

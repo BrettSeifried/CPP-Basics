@@ -1,5 +1,7 @@
+/Users/brettford/Desktop/Cplusplus/Section4/NestedLoops/main.cpp
 /Users/brettford/Desktop/Cplusplus/Section4/Whileloop/main.cpp
 /Users/brettford/Desktop/Cplusplus/Section4/ConditionalOp/main.cpp
+/Users/brettford/Desktop/Cplusplus/Section4/DoWhileLoop/main.cpp
 /Users/brettford/Desktop/Cplusplus/Section4/SwitchEnum/main.cpp
 /Users/brettford/Desktop/Cplusplus/Section4/SwitchStatements/main.cpp
 /Users/brettford/Desktop/Cplusplus/Section4/IfStatements/main.cpp

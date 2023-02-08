@@ -46,7 +46,7 @@ int main( ){
 		cin >> num;
 		
 		if(num <= 1 || num >= 5)
-			cout << "Out of range, try again";
+			cout << "Out of range, try again" << endl;
 		else {
 			cout << "Thanks!" << endl;
 			done = true;
